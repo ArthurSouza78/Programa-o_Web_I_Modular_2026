@@ -1,0 +1,17 @@
+/*
+    Inserir /* * / para comentar
+    para chamar um id eu uso #
+    para chamar uma classe eu uso ponto (.)+nome_da_classe
+*/
+
+p{
+    color: blueviolet;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red{
+    color: red;
+}
+#green{
+    color: green;
+}

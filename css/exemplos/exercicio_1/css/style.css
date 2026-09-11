@@ -1,0 +1,27 @@
+body{
+     background-image: url("../Image/Palmeiras.png");
+    background-repeat: no-repeat;
+    background-size: 800px;
+}
+
+header{
+    color: rgb(0, 132, 255);
+    font-family: arial;
+}
+main{
+    color: rgb(0, 255, 0);
+}
+aside{
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px;
+}
+footer{
+    color: red;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+#campeao{
+    color: rgb(255, 238, 7);
+}
+.primeiro{
+    color: blue;
+}
