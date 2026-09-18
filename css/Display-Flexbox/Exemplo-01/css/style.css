@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border: 8px solid;
+    height: 500px;
+    width: 900px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column-reverse;
+
+}
+
+.filho{
+    border: 3px  solid blue;
+    display: inline-block;
+    padding: 10px;
+    height: 70px;
+    width: 70px;
+}
+.verde{
+    background-color: green;
+
+}
