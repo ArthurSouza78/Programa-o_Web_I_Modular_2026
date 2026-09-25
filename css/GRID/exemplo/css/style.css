@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(12, auto);
+     grid-template-rows: repeat(12, 100px) ;
+     gap: 5px;
+      border: 2px solid red;
+}
+.item{
+    background-color: aqua;
+    border: 1px solid ;
+}
